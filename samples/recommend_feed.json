@@ -1,0 +1,485 @@
+{
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+        "item": [
+            {
+                "id": 116166567660430,
+                "bvid": "BV12MPcz6Ejk",
+                "cid": 36432906160,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV12MPcz6Ejk",
+                "pic": "http://i1.hdslb.com/bfs/archive/97bc45d176315e971c6ce8d03d67d125ffc8ce6f.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/93832b4db829d6f8e78bf3e2cc13d1b8f73fa328.jpg",
+                "title": "机械动力：流体包裹 0.6.5 现已发布",
+                "duration": 242,
+                "pubdate": 1772586000,
+                "owner": {
+                    "mid": 286926825,
+                    "name": "改名字困难户",
+                    "face": "https://i0.hdslb.com/bfs/face/7d6c11baaf2bcac04d432ba8aca06dd718a38cee.jpg"
+                },
+                "stat": {
+                    "view": 1466,
+                    "like": 93,
+                    "danmaku": 0,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "reason_type": 0
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 116191196616809,
+                "bvid": "BV1B4NTz1EJj",
+                "cid": 36540778742,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV1B4NTz1EJj",
+                "pic": "http://i2.hdslb.com/bfs/archive/b167df65e594382409816ac2ea90df09fe069d00.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/b8ce26df2c1bac53c9aff33859864c8911abfef9.jpg",
+                "title": "2026.0308伊朗那点事",
+                "duration": 340,
+                "pubdate": 1772937200,
+                "owner": {
+                    "mid": 387942587,
+                    "name": "快评老周",
+                    "face": "https://i2.hdslb.com/bfs/face/05c5508a2ad51d53069d052b8251c880b7738d7d.jpg"
+                },
+                "stat": {
+                    "view": 38038,
+                    "like": 1776,
+                    "danmaku": 461,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "reason_type": 0
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 116041023881932,
+                "bvid": "BV1sNcgz9ETD",
+                "cid": 35940732094,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV1sNcgz9ETD",
+                "pic": "http://i0.hdslb.com/bfs/archive/654dde0e0e1f07a324a5ffa0f62cc96b88d97d26.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/8cbe68848b5658573cfd31db49cc4d1cf5ebc189.jpg",
+                "title": "科比曹操特朗普联手对抗三体人：人类面壁计划胜算几何？",
+                "duration": 643,
+                "pubdate": 1770645779,
+                "owner": {
+                    "mid": 360439204,
+                    "name": "最后讲述者",
+                    "face": "https://i1.hdslb.com/bfs/face/3ff7e7d794176caa5946c7ea5df7560fb1a1a114.jpg"
+                },
+                "stat": {
+                    "view": 634664,
+                    "like": 82929,
+                    "danmaku": 3221,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "content": "8万点赞",
+                    "reason_type": 3
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 116191498607591,
+                "bvid": "BV1KbNKzxEUp",
+                "cid": 36541959225,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV1KbNKzxEUp",
+                "pic": "http://i2.hdslb.com/bfs/archive/e8c1c888a43507a6cf70c34dd9bf9f383d0a7f81.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/ca2c4f4392d8788d8c26330b896030e1ef6b15c2.jpg",
+                "title": "王毅：绝不允许任何人为殖民张目，为侵略翻案！",
+                "duration": 173,
+                "pubdate": 1772941831,
+                "owner": {
+                    "mid": 46470268,
+                    "name": "央视军事",
+                    "face": "https://i1.hdslb.com/bfs/face/9dcc59c2e51aa7b9f178463903cbd4daab351dd2.jpg"
+                },
+                "stat": {
+                    "view": 26903,
+                    "like": 4155,
+                    "danmaku": 9,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "reason_type": 0
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 116130697973536,
+                "bvid": "BV1XCfbBQEfR",
+                "cid": 36278370925,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV1XCfbBQEfR",
+                "pic": "http://i0.hdslb.com/bfs/archive/d700ac13b33226b4f72a2756759307478ecc5e79.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/f75d94018a2fceb43bff2c24e01946c89df32e2d.jpg",
+                "title": "也没人跟我说进厂要穿溜冰鞋啊？【GTNH#3】",
+                "duration": 624,
+                "pubdate": 1772013893,
+                "owner": {
+                    "mid": 40201225,
+                    "name": "RoboMico",
+                    "face": "https://i1.hdslb.com/bfs/face/7cd2b04ce894f1a42e860381d5624098ab86cdf0.jpg"
+                },
+                "stat": {
+                    "view": 30766,
+                    "like": 3090,
+                    "danmaku": 134,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "reason_type": 0
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 116191297277166,
+                "bvid": "BV1dmNKzGExX",
+                "cid": 36541304586,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV1dmNKzGExX",
+                "pic": "http://i1.hdslb.com/bfs/archive/6ef063453650bb0d0d7c414743cba9a55eeb24c7.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/7157e93808e6109be7c2831c6506118e1815e1da.jpg",
+                "title": "我外交部副部长到场悼念，伊朗使馆表示欢迎，但拒收中国人的善款",
+                "duration": 201,
+                "pubdate": 1772938886,
+                "owner": {
+                    "mid": 3493129074248622,
+                    "name": "小鱼世界观",
+                    "face": "https://i0.hdslb.com/bfs/face/71ae37b500cdbc96098bf04e662735e99e22465b.jpg"
+                },
+                "stat": {
+                    "view": 11059,
+                    "like": 238,
+                    "danmaku": 3,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "reason_type": 0
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 116114306634073,
+                "bvid": "BV13HfcBPETj",
+                "cid": 36216769279,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV13HfcBPETj",
+                "pic": "http://i0.hdslb.com/bfs/archive/0dbc7560128f1e7814c2705111d96fd9ee82721d.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/9d81592ee732278c8a6c58086b75cc06bf3e42ed.jpg",
+                "title": "什么生物让撒旦反过来给人类跪了？【哈基社会学之清道夫】",
+                "duration": 750,
+                "pubdate": 1771764486,
+                "owner": {
+                    "mid": 12906551,
+                    "name": "叶小十同学",
+                    "face": "https://i2.hdslb.com/bfs/face/25ca3b7639e6e5ecdb9078d5921efe462223a2a5.jpg"
+                },
+                "stat": {
+                    "view": 147745,
+                    "like": 15964,
+                    "danmaku": 864,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "reason_type": 0
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 115989568034227,
+                "bvid": "BV1At61BAEP1",
+                "cid": 35732718383,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV1At61BAEP1",
+                "pic": "http://i0.hdslb.com/bfs/archive/3a82a2715cc8132135b299d1ec75c18a20991dd0.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/3caa241441816bc6419547a8629c276134ac75cf.jpg",
+                "title": "博士去终末地了......",
+                "duration": 97,
+                "pubdate": 1769911200,
+                "owner": {
+                    "mid": 131549684,
+                    "name": "是聪妹啊",
+                    "face": "https://i2.hdslb.com/bfs/face/1c940c197f66b474584c84f4a105f344b5a3a4c8.jpg"
+                },
+                "stat": {
+                    "view": 1201286,
+                    "like": 89919,
+                    "danmaku": 701,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "content": "8万点赞",
+                    "reason_type": 3
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 115886992131299,
+                "bvid": "BV1N5rLBWENg",
+                "cid": 35359687295,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV1N5rLBWENg",
+                "pic": "http://i2.hdslb.com/bfs/archive/d92578f48477e54d9ac3ee4a35556810e2d488a6.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/cb0b075a22dc3993ba48c2f637a93d597833415f.jpg",
+                "title": "不尊重东北菜量的后果…",
+                "duration": 384,
+                "pubdate": 1768298400,
+                "owner": {
+                    "mid": 3546689080133740,
+                    "name": "野文不懂吃",
+                    "face": "https://i1.hdslb.com/bfs/face/c42a0eb03dc75889e6deb47526b72279c69897ff.jpg"
+                },
+                "stat": {
+                    "view": 1584135,
+                    "like": 33209,
+                    "danmaku": 3136,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "reason_type": 0
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 116027216105473,
+                "bvid": "BV1AcFnzVEGh",
+                "cid": 35879651481,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV1AcFnzVEGh",
+                "pic": "http://i2.hdslb.com/bfs/archive/e49c0d249be8f684e9f900493992e8f36cc123ed.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/4fb1b5a9312ef110d38afebfb0ae1db4ff41beaf.jpg",
+                "title": "盘点对抗路玩家必须具备的八大美德",
+                "duration": 260,
+                "pubdate": 1770435808,
+                "owner": {
+                    "mid": 141605973,
+                    "name": "瑶叔讲三国",
+                    "face": "https://i0.hdslb.com/bfs/face/7cfee56e77162887b50e5d78f23d018e95205d4d.jpg"
+                },
+                "stat": {
+                    "view": 1922411,
+                    "like": 36629,
+                    "danmaku": 269,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "reason_type": 0
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 115966230921402,
+                "bvid": "BV1qM6MBnEBL",
+                "cid": 35642410042,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV1qM6MBnEBL",
+                "pic": "http://i1.hdslb.com/bfs/archive/4befb10c5a124c0b1da1fa676787a5471b43f378.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/eae114c5a3f9413d4084c0fae91622377e718ca1.jpg",
+                "title": "这是终末地最聪明的干员，你敢和她对视十秒吗？",
+                "duration": 130,
+                "pubdate": 1769504608,
+                "owner": {
+                    "mid": 13167438,
+                    "name": "呵纹Hevon",
+                    "face": "https://i0.hdslb.com/bfs/face/4a10113c331df8d8e131542fce37103e7a9e0641.jpg"
+                },
+                "stat": {
+                    "view": 3610110,
+                    "like": 349236,
+                    "danmaku": 17964,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "reason_type": 0
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            },
+            {
+                "id": 116134690953186,
+                "bvid": "BV1LufYBaEhk",
+                "cid": 36292788562,
+                "goto": "av",
+                "uri": "https://www.bilibili.com/video/BV1LufYBaEhk",
+                "pic": "http://i0.hdslb.com/bfs/archive/9412fa667f3659a0ef0ccdab3fb63bcf49d43466.jpg",
+                "pic_4_3": "http://i0.hdslb.com/bfs/archive/aa2b3fdad3c23e9d803d293fa487f4222c843410.jpg",
+                "title": "一回合连放13次裂解魔杖，关于瓦莉拉小姐过于谨慎这件事",
+                "duration": 325,
+                "pubdate": 1772075041,
+                "owner": {
+                    "mid": 110824695,
+                    "name": "好耶-禁止好耶",
+                    "face": "https://i0.hdslb.com/bfs/face/474e3c9392dfdfa4175cb6b6f993ea5245ff1d01.jpg"
+                },
+                "stat": {
+                    "view": 22438,
+                    "like": 774,
+                    "danmaku": 37,
+                    "vt": 0
+                },
+                "av_feature": null,
+                "is_followed": 0,
+                "rcmd_reason": {
+                    "reason_type": 0
+                },
+                "show_info": 1,
+                "track_id": "web_pegasus_0.router-web-pegasus-2479516-f6fct.1772961320087.537",
+                "pos": 0,
+                "room_info": null,
+                "ogv_info": null,
+                "business_info": null,
+                "is_stock": 0,
+                "enable_vt": 0,
+                "vt_display": "",
+                "dislike_switch": 1,
+                "dislike_switch_pc": 1
+            }
+        ],
+        "business_card": null,
+        "floor_info": null,
+        "user_feature": null,
+        "preload_expose_pct": 0.5,
+        "preload_floor_expose_pct": 0.5,
+        "mid": 231238867
+    }
+}
