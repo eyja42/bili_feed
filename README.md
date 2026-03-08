@@ -13,7 +13,7 @@
 ## 使用前提
 
 - Python 3.x
-- 已配置环境变量 `BILI_SESSDATA` 和 `BILI_FAVORITE_FOLDER_ID`
+- 已配置环境变量 `BILI_SESSDATA` 和 `BILI_FAVORITE_FOLDER_ID`（获取方式见后文）
 
 ## 获取环境变量配置（必填）
 
@@ -21,7 +21,7 @@
 
 含义：B 站登录态 Cookie 中的 `SESSDATA` 字段。
 
-安全提示：这是敏感凭据，泄露后可能导致账号被他人调用接口，请勿外传。
+**安全提示：**这是敏感凭据，泄露后可能导致账号被他人调用接口，请勿外传。
 
 #### 获取方式 A：浏览器开发者工具（推荐）
 
@@ -62,7 +62,7 @@ https://space.bilibili.com/{你的用户ID}/favlist?fid={收藏夹ID}&...
 https://space.bilibili.com/11451444/favlist?fid=191981000
 ```
 
-其中 `191981000` 即 `BILI_FAVORITE_FOLDER_ID`。
+其中 `191981000` 就是目标收藏夹的fid。
 
 ## 设置环境变量
 
@@ -70,14 +70,14 @@ https://space.bilibili.com/11451444/favlist?fid=191981000
 
 ```powershell
 $env:BILI_SESSDATA = "这里替换成SESSDATA"
-$env:BILI_FAVORITE_FOLDER_ID = "191981000"
+$env:BILI_FAVORITE_FOLDER_ID = "这里替换成目标收藏夹fid"
 ```
 
 ### Bash（Linux/macOS）
 
 ```bash
 export BILI_SESSDATA="这里替换成SESSDATA"
-export BILI_FAVORITE_FOLDER_ID="191981000"
+export BILI_FAVORITE_FOLDER_ID="这里替换成目标收藏夹fid"
 ```
 
 ## 校验环境变量
